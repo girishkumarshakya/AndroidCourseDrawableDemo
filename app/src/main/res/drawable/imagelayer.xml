@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/froyo" android:gravity="center"/>
+    </item>
+
+    <item android:top="10dp" android:left="10dp">
+        <bitmap android:src="@drawable/froyo" android:gravity="center"/>
+    </item>
+
+    <item android:top="20dp" android:left="20dp">
+        <bitmap android:src="@drawable/froyo" android:gravity="center"/>
+    </item>
+
+    <item android:top="30dp" android:left="30dp">
+        <bitmap android:src="@drawable/froyo" android:gravity="center"/>
+    </item>
+
+    <item android:top="40dp" android:left="40dp">
+        <bitmap android:src="@drawable/froyo" android:gravity="center"/>
+    </item>
+
+
+</layer-list>
